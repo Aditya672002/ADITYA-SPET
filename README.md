@@ -17,6 +17,7 @@ MyPet Care Console Application
  Pet Actions: 
  
  Feed: It reduces the appetite and on the same note boosts the body’s overall health. 
+ 
  Play: Makes people happier, but not if the pet is ravenous. 
  Rest: Health is displayed to grow when with booze but simultaneously, happiness is depicted to reduce when with booze. 
  Status Checking: Enables the users to view the pet’s current hunger, happiness and health stats and flashes red if any of the stats are critically low. 
