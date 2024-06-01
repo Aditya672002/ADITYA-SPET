@@ -12,6 +12,7 @@ MyPet Care Console Application
  Features 
  
  Pet Initialization: Pet option includes selecting the pet name and selecting the type of pet available, which are Rabbit, Horse, or Goat. 
+ 
   Interaction Menu: There is the menu with choices to feed, play, take a nap, check the pet’s status, and exit the interactive application. 
  
  Pet Actions: 
@@ -19,14 +20,18 @@ MyPet Care Console Application
  Feed: It reduces the appetite and on the same note boosts the body’s overall health. 
  
  Play: Makes people happier, but not if the pet is ravenous. 
+ 
  Rest: Health is displayed to grow when with booze but simultaneously, happiness is depicted to reduce when with booze. 
+ 
  Status Checking: Enables the users to view the pet’s current hunger, happiness and health stats and flashes red if any of the stats are critically low. 
+ 
  Time Simulation: Represents time which depends on the level of food hunger and basic happiness of people. 
  
  How to Use 
  
  Launching the Application: 
  The Program must be compiled then executed. program using a c sharp compiler or c sharp development tool like Microsoft Visual Studio. 
+ 
  Type in your pet name and select the pet’s type Rabbit, Horse, or Goat. 
  
  Interacting with Your Pet: 
